@@ -31,7 +31,7 @@ class Config(object):
     DB_NAME = "UtopiaDB"
 
     # Bot token
-    TOKEN = "2323839365:AAFgfdadqawlfdsM7slOa33eM_ghop"  # Get bot token from @BotFather on Telegram
+    TOKEN = "7238103610:AAHszQHzbLt2UxSgJ8oA90DLlfolLHC-ggw"  # Get bot token from @BotFather on Telegram
 
     # Owner's Telegram user ID (Must be an integer)
     OWNER_ID = 7114763692
