@@ -1,5 +1,5 @@
 {
-   "name": "Yae Miko",
+   "name": "Arona Test",
    "description": "A versatile Telegram Group Management Bot.",
    "logo": "https://telegra.ph/file/4d370b478d90d98709398.jpg",
    "keywords": ["telegram", "modular", "group", "management", "Miko"],
@@ -14,12 +14,12 @@
       }
    ],
    "env": {
-      "API_ID": {
+      "API_ID": {23028479
          "description": "Obtain this value from my.telegram.org/apps.",
          "required": true,
          "value": ""
       },
-      "API_HASH": {
+      "API_HASH": {c1e6a93b04c0810a5c282d8d8d44ea6f
          "description": "Obtain this value from my.telegram.org/apps.",
          "required": true,
          "value": ""
@@ -33,12 +33,12 @@
          "required": true,
          "value": "True"
       },
-      "EVENT_LOGS": {
+      "EVENT_LOGS": {-1002123758721
          "description": "Channel for event logs to note down important bot-level events. Recommend making this public. Example: '-123456'",
          "required": true,
          "value": ""
       },
-      "MESSAGE_DUMP": {
+      "MESSAGE_DUMP": {-1002123758721
          "description": "Support chat ID.",
          "required": true,
          "value": "-1001511142636"
