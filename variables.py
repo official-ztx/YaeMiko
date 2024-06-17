@@ -21,7 +21,7 @@ class Config(object):
     MESSAGE_DUMP = -1002123758721
 
     # MongoDB configuration
-    MONGO_DB_URI = "mongodb+srv://t45:t45@cluster0.plfylpo.mongodb.net/?retryWrites=true&w=majority"
+    MONGO_DB_URI = "mongodb+srv://ravi:ravi12345@cluster0.hndinhj.mongodb.net/?retryWrites=true&w=majority"
 
     # Support chat and support ID
     SUPPORT_CHAT = "ZTX_BOTS"
