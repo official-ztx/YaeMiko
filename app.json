@@ -14,12 +14,12 @@
       }
    ],
    "env": {
-      "API_ID": {23028479
+      "API_ID": {23028479}
          "description": "Obtain this value from my.telegram.org/apps.",
          "required": true,
          "value": ""
       },
-      "API_HASH": {c1e6a93b04c0810a5c282d8d8d44ea6f
+      "API_HASH": {c1e6a93b04c0810a5c282d8d8d44ea6f}
          "description": "Obtain this value from my.telegram.org/apps.",
          "required": true,
          "value": ""
